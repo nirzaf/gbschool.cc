@@ -280,3 +280,183 @@
 - Course 2: Completion of Course 1 or equivalent experience
 - Course 3: Basic architectural knowledge recommended
 - Course 4: Understanding of 3D concepts and completion of Course 2 or 3
+
+## Course 5: Digital Prototyping with Inventor
+**Duration**: 10 weeks
+**Level**: Intermediate to Advanced
+
+### Course Objectives
+- Master mechanical design and engineering
+- Create complex assemblies and mechanisms
+- Develop manufacturing documentation
+- Perform engineering analysis
+
+### Weekly Breakdown
+1. **Inventor Fundamentals**
+   - Interface overview
+   - Project files setup
+   - Template customization
+   - Design accelerator tools
+
+2. **Part Modeling**
+   - Sketch techniques
+   - Feature creation
+   - Work features
+   - iFeatures and iParts
+
+3. **Assembly Modeling**
+   - Component placement
+   - Constraints and joints
+   - Adaptive design
+   - Top-down assembly
+
+4. **Advanced Part Design**
+   - Multi-body modeling
+   - Sheet metal design
+   - Frame generator
+   - Plastic part design
+
+5. **Dynamic Simulation**
+   - Motion analysis
+   - Force application
+   - Joint behavior
+   - Animation creation
+
+6. **Engineering Analysis**
+   - Stress analysis
+   - Frame analysis
+   - Dynamic simulation
+   - Optimization studies
+
+7. **Technical Documentation**
+   - Drawing views
+   - Dimension standards
+   - Annotations
+   - Parts lists and BOMs
+
+8. **Design Automation**
+   - iLogic basics
+   - Parameter linking
+   - Design configurations
+   - Custom rule creation
+
+9. **Manufacturing Preparation**
+   - Tooling design
+   - Mold design
+   - CNC setup
+   - 3D printing preparation
+
+10. **Final Project**
+    - Machine design project
+    - Assembly animation
+    - Technical documentation
+    - Engineering analysis report
+
+## Course 6: Civil Infrastructure with Civil 3D
+**Duration**: 12 weeks
+**Level**: Advanced
+
+### Course Objectives
+- Master civil engineering design workflows
+- Create infrastructure models and documentation
+- Perform terrain analysis and earthwork calculations
+- Develop transportation and utility designs
+
+### Weekly Breakdown
+1. **Civil 3D Fundamentals**
+   - Interface mastery
+   - Project setup
+   - Data shortcuts
+   - Survey database
+
+2. **Surface Modeling**
+   - Point cloud processing
+   - Surface creation
+   - Terrain analysis
+   - Volume calculations
+
+3. **Parcels & Site Design**
+   - Parcel layout
+   - Site grading
+   - Parking lots
+   - Building pads
+
+4. **Transportation Design**
+   - Alignment creation
+   - Profile development
+   - Corridors
+   - Intersections
+
+5. **Pipeline Design**
+   - Pressure networks
+   - Gravity networks
+   - Pipeline analysis
+   - Network management
+
+6. **Grading & Earthwork**
+   - Grading objects
+   - Feature lines
+   - Mass haul analysis
+   - Quantity takeoffs
+
+7. **Plan Production**
+   - Plan sheets
+   - Profile sheets
+   - Section sheets
+   - Quantity reports
+
+8. **Drainage Analysis**
+   - Catchment areas
+   - Hydrology calculations
+   - Detention design
+   - Storm analysis
+
+9. **Advanced Corridors**
+   - Complex intersections
+   - Roundabouts
+   - Interchanges
+   - Railway design
+
+10. **Construction Documentation**
+    - Construction staking
+    - As-built documentation
+    - QA/QC procedures
+    - Resource tracking
+
+11. **GIS Integration**
+    - Data import/export
+    - Coordinate systems
+    - Attribute management
+    - Spatial analysis
+
+12. **Final Project**
+    - Complete site development
+    - Infrastructure design
+    - Construction documents
+    - Presentation materials
+
+### Assessment Methods for New Courses
+- Weekly practical assignments
+- Technical documentation
+- Project presentations
+- Team collaboration exercises
+- Industry-standard deliverables
+- Final portfolio development
+
+### Prerequisites
+- Course 5: Understanding of mechanical design principles, completion of Course 1 or equivalent
+- Course 6: Civil engineering background recommended, completion of Course 1
+
+### Software Requirements
+All courses require:
+- Windows 10/11 Professional
+- 16GB RAM minimum (32GB recommended)
+- Dedicated graphics card
+- High-speed internet connection
+- Dual monitors recommended
+
+### Industry Certifications
+Students completing these courses will be prepared for:
+- Autodesk Certified Professional: Inventor
+- Autodesk Certified Professional: Civil 3D
+- Additional specialized certifications in respective fields
