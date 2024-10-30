@@ -726,6 +726,20 @@ section {
 .courses .course-item {
   border-radius: 5px;
   border: 1px solid #eef0ef;
+  transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.courses .course-item:hover {
+  transform: translateY(-10px);
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
+
+.courses .course-item img {
+  transition: transform 0.3s;
+}
+
+.courses .course-item:hover img {
+  transform: scale(1.05);
 }
 
 .courses .course-content {
@@ -734,7 +748,7 @@ section {
 
 .courses .course-content h3 {
   font-weight: 700;
-  font-size: 20px;
+  font-size: 22px;
 }
 
 .courses .course-content h3 a {
@@ -747,8 +761,8 @@ section {
 }
 
 .courses .course-content p {
-  font-size: 14px;
-  color: #777777;
+  font-size: 15px;
+  color: #555555;
 }
 
 .courses .course-content h4 {
